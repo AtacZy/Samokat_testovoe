@@ -28,10 +28,13 @@
 
 ## 📂 Структура проекта
 
+```
 samokat-analytics/
-├── README.md # Описание проекта и результаты
-├── TASK.md # Полный текст тестового задания
-├── Project_for_Samokat.ipynb # Jupyter Notebook с кодом и визуализациями
+├── README.md
+├── TASK.md
+├── tasks.txt
+├── Project_for_Samokat.ipynb
 └── data/
-├── products.csv # Справочник товаров (категории, подкатегории)
-└── orders.csv # Данные о заказах (цены, количество, даты)
+    ├── products.csv
+    └── orders.csv
+```
